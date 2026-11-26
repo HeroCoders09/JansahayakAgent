@@ -1,0 +1,7 @@
+streamlit>=1.40.0
+google-genai>=1.0.0
+python-dotenv>=1.0.1
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+ddgs>=9.16.1,<10
+pypdf>=5.0.0
